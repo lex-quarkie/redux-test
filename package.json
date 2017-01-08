@@ -1,0 +1,19 @@
+{
+  "name": "redux-test",
+  "version": "1.0.0",
+  "description": "Redux test app",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lex-quarkie/redux-test.git"
+  },
+  "author": "lex quarkie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lex-quarkie/redux-test/issues"
+  },
+  "homepage": "https://github.com/lex-quarkie/redux-test#readme"
+}
